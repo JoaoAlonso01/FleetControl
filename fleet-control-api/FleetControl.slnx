@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/FleetControl.Api/FleetControl.Api.csproj" />
+    <Project Path="src/FleetControl.Application.Services/FleetControl.Application.Services.csproj" />
+    <Project Path="src/FleetControl.Application/FleetControl.Application.csproj" />
+    <Project Path="src/FleetControl.CrossCutting/FleetControl.CrossCutting.csproj" />
+    <Project Path="src/FleetControl.Domain.Shared/FleetControl.Domain.Shared.csproj" />
+    <Project Path="src/FleetControl.Domain/FleetControl.Domain.csproj" />
+    <Project Path="src/FleetControl.Infra.Data/FleetControl.Infra.Data.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/FleetControl.Application.Tests/FleetControl.Application.Tests.csproj" />
+    <Project Path="tests/FleetControl.Domain.Tests/FleetControl.Domain.Tests.csproj" />
+  </Folder>
+</Solution>
