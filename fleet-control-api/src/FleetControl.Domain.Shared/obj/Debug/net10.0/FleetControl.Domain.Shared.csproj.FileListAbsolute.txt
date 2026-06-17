@@ -1,0 +1,13 @@
+C:\Users\joaov\Desktop\FleetControl\fleet-control-api\src\FleetControl.Domain.Shared\bin\Debug\net10.0\FleetControl.Domain.Shared.deps.json
+C:\Users\joaov\Desktop\FleetControl\fleet-control-api\src\FleetControl.Domain.Shared\bin\Debug\net10.0\FleetControl.Domain.Shared.dll
+C:\Users\joaov\Desktop\FleetControl\fleet-control-api\src\FleetControl.Domain.Shared\bin\Debug\net10.0\FleetControl.Domain.Shared.pdb
+C:\Users\joaov\Desktop\FleetControl\fleet-control-api\src\FleetControl.Domain.Shared\obj\Debug\net10.0\FleetControl.Domain.Shared.csproj.AssemblyReference.cache
+C:\Users\joaov\Desktop\FleetControl\fleet-control-api\src\FleetControl.Domain.Shared\obj\Debug\net10.0\FleetControl.Domain.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Desktop\FleetControl\fleet-control-api\src\FleetControl.Domain.Shared\obj\Debug\net10.0\FleetControl.Domain.Shared.AssemblyInfoInputs.cache
+C:\Users\joaov\Desktop\FleetControl\fleet-control-api\src\FleetControl.Domain.Shared\obj\Debug\net10.0\FleetControl.Domain.Shared.AssemblyInfo.cs
+C:\Users\joaov\Desktop\FleetControl\fleet-control-api\src\FleetControl.Domain.Shared\obj\Debug\net10.0\FleetControl.Domain.Shared.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Desktop\FleetControl\fleet-control-api\src\FleetControl.Domain.Shared\obj\Debug\net10.0\FleetControl.Domain.Shared.sourcelink.json
+C:\Users\joaov\Desktop\FleetControl\fleet-control-api\src\FleetControl.Domain.Shared\obj\Debug\net10.0\FleetControl.Domain.Shared.dll
+C:\Users\joaov\Desktop\FleetControl\fleet-control-api\src\FleetControl.Domain.Shared\obj\Debug\net10.0\refint\FleetControl.Domain.Shared.dll
+C:\Users\joaov\Desktop\FleetControl\fleet-control-api\src\FleetControl.Domain.Shared\obj\Debug\net10.0\FleetControl.Domain.Shared.pdb
+C:\Users\joaov\Desktop\FleetControl\fleet-control-api\src\FleetControl.Domain.Shared\obj\Debug\net10.0\ref\FleetControl.Domain.Shared.dll

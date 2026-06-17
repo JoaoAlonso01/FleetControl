@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vc2qE4UNXx8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaov\\Desktop\\FleetControl\\fleet-control-api\\src\\FleetControl.Domain\\FleetControl.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaov\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\joaov\Desktop\FleetControl\fleet-control-api\src\FleetControl.Domain\bin\Debug\net10.0\FleetControl.Domain.deps.json
+C:\Users\joaov\Desktop\FleetControl\fleet-control-api\src\FleetControl.Domain\bin\Debug\net10.0\FleetControl.Domain.dll
+C:\Users\joaov\Desktop\FleetControl\fleet-control-api\src\FleetControl.Domain\bin\Debug\net10.0\FleetControl.Domain.pdb
+C:\Users\joaov\Desktop\FleetControl\fleet-control-api\src\FleetControl.Domain\bin\Debug\net10.0\FleetControl.Domain.Shared.dll
+C:\Users\joaov\Desktop\FleetControl\fleet-control-api\src\FleetControl.Domain\bin\Debug\net10.0\FleetControl.Domain.Shared.pdb
+C:\Users\joaov\Desktop\FleetControl\fleet-control-api\src\FleetControl.Domain\obj\Debug\net10.0\FleetControl.Domain.csproj.AssemblyReference.cache
+C:\Users\joaov\Desktop\FleetControl\fleet-control-api\src\FleetControl.Domain\obj\Debug\net10.0\FleetControl.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Desktop\FleetControl\fleet-control-api\src\FleetControl.Domain\obj\Debug\net10.0\FleetControl.Domain.AssemblyInfoInputs.cache
+C:\Users\joaov\Desktop\FleetControl\fleet-control-api\src\FleetControl.Domain\obj\Debug\net10.0\FleetControl.Domain.AssemblyInfo.cs
+C:\Users\joaov\Desktop\FleetControl\fleet-control-api\src\FleetControl.Domain\obj\Debug\net10.0\FleetControl.Domain.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Desktop\FleetControl\fleet-control-api\src\FleetControl.Domain\obj\Debug\net10.0\FleetControl.Domain.sourcelink.json
+C:\Users\joaov\Desktop\FleetControl\fleet-control-api\src\FleetControl.Domain\obj\Debug\net10.0\FleetCon.D0EDD3C7.Up2Date
+C:\Users\joaov\Desktop\FleetControl\fleet-control-api\src\FleetControl.Domain\obj\Debug\net10.0\FleetControl.Domain.dll
+C:\Users\joaov\Desktop\FleetControl\fleet-control-api\src\FleetControl.Domain\obj\Debug\net10.0\refint\FleetControl.Domain.dll
+C:\Users\joaov\Desktop\FleetControl\fleet-control-api\src\FleetControl.Domain\obj\Debug\net10.0\FleetControl.Domain.pdb
+C:\Users\joaov\Desktop\FleetControl\fleet-control-api\src\FleetControl.Domain\obj\Debug\net10.0\ref\FleetControl.Domain.dll
